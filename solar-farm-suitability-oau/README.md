@@ -18,7 +18,6 @@ Developed a full GIS-based Multi-Criteria Decision Analysis (MCDA) to identify t
 | Aspect 	             | Derived from DSM               | 5%     |
 | Elevation                  | Derived from DSM               | 3%     |
 
-![AHP Criteria Weights](ahp_criteria_weights.jpg)
 
 ## Tools
 - ArcGIS Pro 
@@ -44,4 +43,5 @@ LinkedIn • Email • Portfolio
 ---
 
 Open to roles in renewable energy site selection, GIS consulting, and spatial analytics across Africa.
+
 
