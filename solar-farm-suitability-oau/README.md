@@ -38,10 +38,11 @@ Developed a full GIS-based Multi-Criteria Decision Analysis (MCDA) to identify t
 
 [Oluwapelumi Hammed]  
 GIS & Geospatial Analyst  
-LinkedIn • Email • Portfolio
+LinkedIn • Email • Twitter
 
 ---
 
-Open to roles in renewable energy site selection, GIS consulting, and spatial analytics across Africa.
+Open to roles in renewable energy site selection, GIS consulting, and spatial analysis.
+
 
 
